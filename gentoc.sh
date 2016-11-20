@@ -14,7 +14,7 @@ for f in $(ls -1 $posts)
 do
    title=$(grep "<h2>" $posts/$f | head -1 | sed -e 's/<h2>//' -e 's/<\/h2>//')
    txtanchor=${f%%.m4}
-   set -- $(ls -lD "%Y-%M-%d %H:%M" $posts/$f)
+   set -- $(ls -lD "%Y-%m-%d %H:%M" $posts/$f)
    dt="$6 $7"
 
 

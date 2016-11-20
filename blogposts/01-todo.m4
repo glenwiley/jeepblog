@@ -17,15 +17,32 @@ Some of the smaller maintenance tasks:
 <dl>
    <dt>Replace battery cables</dt>
    <dd>I am using a pair of vice grips to hold the negative wire to the negative 
-       terminal.  I'd like to be able to use those pliers for other things. I expect to spend about $50 on
-		 this.</li>
+       terminal.  I'd like to be able to use those pliers for other things. I expect to spend about $10 on this. I have some 3AWG stranded copper in chemical resistant insulation that I can use.
+       <br>switch to coil, 12"
+       <br>positive battery terminal to switch, 24"
+       <br>negative battery terminal to engine, 20"
+       <br>alternator to battery, 14"
    </dd>
    
+   <dt>Battery tray</dt>
+   <dd>The battery was being held in place with a bungee cord, this needs to be
+       replaced with a rigid retaining system.</dd>
+
    <dt>Add an air filter</dt>
    <dd>The jeep was being run with the carburetor open to the world, I think it
-       would be good to put something there to get particles smaller than 2" across
+       would be good to put something there to keep particles smaller than 2" across
        out of the carb. I expect this to cost about $40 since I will use a
 		 simple paper filter (and case) that slips on over the carb.</dd>
+
+   <dt>Windshield cushions</dt>
+   <dd>The rubber stoppers currently in place on the hood need to be replaced with longer
+       bits of rubber to protect the windshield frame when the hood is raised.  I think I
+       can cut some rubber off some old golf cart tires for this.</dd>
+
+   <dt>Gas cap and tank leaks</dt>
+   <dd>The gas cap leaks when you drive.  It looks as though the cork seal needs to be replaced.
+       The fuel level sender is leaking as well - leaving liquid
+       gas under the driver seat.</dd>
 
 	<dt>Shocks</dt>
 	<dd>I am almost certain that I need new shock absorbers.  This isn't a top priority since the
@@ -57,6 +74,26 @@ transfer case that were both fully disassembled.
 
 <hr>
 
+<h3>Brake system upgrade</h3>
+
+<p>
+
+The brake system has a single master cylinder and looks pretty
+rough.  I plan on replacing it with a dual master cylinder and
+10" brake drums.
+
+<hr>
+
+<h3>Steering Box Rebuild</h3>
+
+<p>
+
+The steering has a LOT of play.  It looks like this is between
+the steering column and the steering box, I suspect that the
+steering box will need to be rebuilt.
+
+<hr>
+
 <h3>Parking Brake Reassembly</h3>
 
 <p>
@@ -64,6 +101,15 @@ transfer case that were both fully disassembled.
 THe parking brake was not attached to the transmission when I bought the jeep.  I need to
 put it back together because using wheel chocks is hard when you are by yourself trying to
 park on an incline.
+
+<hr>
+
+<h3>Tail Pipe</h3>
+
+<p>
+
+The muffler has no tail pipe so it vents toward the right rear
+tire.  A tail pipe needs to be added.
 
 <hr>
 
@@ -75,14 +121,17 @@ Some of the body panels need to be repaired. They are mostly in good shape, but 
 panels have some rot and large holes in a few places.  My current plan is to cut the sections out,
 fabricate patches that match the original design and weld them in place.
 
-<hr>
-
-<h3>Steering Box Rebuild</h3>
-
-<p>
-
-The steering has a LOT of play.  It looks like this is between the steering column and the steering box,
-I suspect that the steering box will need to be rebuilt.
+<ul>
+   <li>Driver side floor is rusted through in places.</li>
+   <li>Left rear fender (top of the wheel well) has been cut up, needs to be replaced.</li>
+   <li>Driver side step is rusted through, replace when the driver side floor is done because
+       the hat channel under the floor that supports the step is also rotted away</li>
+   <li>Right rear quarter panel is pretty mangled.</li>
+   <li>It would be nice to replace the side panels with ones that have notches for the pioneer
+       tools.</li>
+   <li>The glove box under the passenger seat is rotted
+   through</li>
+</ul>
 
 <hr>
 
@@ -100,6 +149,17 @@ I also need a rim for a spare.
 <p>
 
 I am not certain what wheels came on the Jeep - need to figure out what I have to work with.
+The tire sidewalls show 10-15 LT, I think these are 10" wide 15" diameter rims.  It would be
+nice to go with a more narrow rim but this is not a budget item for sure.
+
+<hr>
+
+<h3>Fuses</h3>
+
+<p>
+
+It looks as though there are no electrical fuses.  It would be
+nice to put either in-line fuses in place or an actual fuse box.
 
 <hr>
 
@@ -126,13 +186,24 @@ $250 and that still needs upholstry.
 
 <hr>
 
+<h3>Front seat frames</h3>
+
+<p>
+
+The front seat frames are in pretty bad shape, it would be good
+to rebuild them.
+
+<hr>
+
 <h3>Dashboard Panel Replacement</h3>
 
 <p>
 
-The dashboard has been cut and drilled in a number of places, I suspect that I will need to replace it.
-I might be able to patch it but need to look at it more closely.  It would be nice to get a replacement
-shifter diagram plate to mount to the dash.
+The dashboard has been cut and drilled in a number of places, I
+suspect that I will need to replace it.  I might be able to patch
+it but need to look at it more closely.  It would be nice to get
+a replacement shifter diagram plate to mount to the dash, walcks
+has them for about $15.
 
 <hr>
 
@@ -140,6 +211,8 @@ shifter diagram plate to mount to the dash.
 
 <p>
 
-I'd like to add a mount for a 5 gallon fuel can to the tailgate or to the left side.  Haven't decided
-whether I want to impede the use of the tailgate, it really isnt very important given the shallow
-depth of the back.  If I decide to put a rear seat in then a functional tailgate is even less important.
+I'd like to add a mount for a 5 gallon fuel can to the tailgate
+or to the left side.  Haven't decided whether I want to impede
+the use of the tailgate, it really isnt very important given the
+shallow depth of the back.  If I decide to put a rear seat in
+then a functional tailgate is even less important.
