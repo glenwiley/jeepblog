@@ -135,22 +135,26 @@ fabricate patches that match the original design and weld them in place.
 
 <hr>
 
-<h3>Tires</h3>
+<h3>Tires and rims</h3>
 
 <p>
 
-The tires that were on the jeep when I bought it were badly cracked.  I don't expect them
-to last very long, my hope is that I can keep air in them until I get a little more money
-in the first quarter.  I am currently planning on putting bias-ply tires on since they are cheaper and
-I don't plan on putting this Jeep on the road.  I like the look for the non-directional tread (that
-is what I remember being on the Jeeps when I was in the army).  I expect to spend about $800-$900 since
-I also need a rim for a spare.
+The tires that were on the jeep when I bought it were badly cracked.  I don't
+expect them to last very long, my hope is that I can keep air in them until I
+get a little more money in the first quarter.  I am currently planning on
+putting bias-ply tires on since they are cheaper and I don't plan on putting
+this Jeep on the road.  I like the look for the non-directional tread (that is
+what I remember being on the Jeeps when I was in the army).  I expect to spend
+about $800-$900 since I also need a rim for a spare.
 
 <p>
 
-I am not certain what wheels came on the Jeep - need to figure out what I have to work with.
-The tire sidewalls show 10-15 LT, I think these are 10" wide 15" diameter rims.  It would be
-nice to go with a more narrow rim but this is not a budget item for sure.
+Looking for a 16" or 15" wheel with a 5x5.5" blot pattern and a center bore of 4.25".
+
+<ul>
+   <li><a href="https://www.summitracing.com/parts/wvi-62-575504/overview/">15x7, $87</a></li>
+   <li><a href="https://www.summitracing.com/parts/wvi-62-585504/overview/">15x8, $86</a></li>
+</ul>
 
 <hr>
 
