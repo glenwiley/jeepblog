@@ -152,8 +152,9 @@ about $800-$900 since I also need a rim for a spare.
 Looking for a 16" or 15" wheel with a 5x5.5" blot pattern and a center bore of 4.25".
 
 <ul>
-   <li><a href="https://www.summitracing.com/parts/wvi-62-575504/overview/">15x7, $87</a></li>
-   <li><a href="https://www.summitracing.com/parts/wvi-62-585504/overview/">15x8, $86</a></li>
+   <li><a href="https://www.summitracing.com/parts/wvi-62-575504/overview/">15x7 wheel, $87</a></li>
+   <li><a href="https://www.summitracing.com/parts/wvi-62-585504/overview/">15x8 wheel, $86</a></li>
+   <li><a href="https://simpletire.com/eldorado-715lt-aud36-tires?stmodel=power-king-super-traction-ii&stcategory=other&sttype=commercial&gclid=Cj0KEQiA08rBBRDUn4qproqwzYMBEiQAqpzns_-036uON4uJXQ20XNlF3SR7Ba5woC6TqIsSLoY7beMaArdI8P8HAQ">7.00/15LT Power King Super Traction II, $76</a></li>
 </ul>
 
 <hr>
