@@ -47,8 +47,26 @@ include(`spending.m4')
                   </tr>
 
                   <tr>
+                     <td>2016-11-21</td>
+                     <td>Amazon: Gasket material, master brake cylinder ACDelco 18M287, 3/16" x 25' steel brake line, line clamps</td>
+                     <td>$72</td>
+                  </tr>
+
+                  <tr>
+                     <td>2016-11-21</td>
+                     <td>Walcks: Wheel cylinders (OEM), fuel level sending unit gasket, T-90 overhaul kit (gaskets, small parts)</td>
+                     <td>$161</td>
+                  </tr>
+
+                  <tr>
+                     <td>2016-11-18</td>
+                     <td>Amazon: K&N RA-0760 High Performance Universal Air Filter</td>
+                     <td>$42</td>
+                  </tr>
+
+                  <tr>
                      <td>2016-11-15</td>
-                     <td>Manuals: 1948 & Before WILLYS JEEP SERVICE MANUAL, Jeep CJ Rebuilder's Manual, 1946-1971</td>
+                     <td>Amazon: Manuals: 1948 & Before WILLYS JEEP SERVICE MANUAL, Jeep CJ Rebuilder's Manual, 1946-1971</td>
                      <td>$100</td>
                   </tr>
 
