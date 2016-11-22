@@ -1,15 +1,16 @@
 <h2>Willy's Jeep CJ2A TODO List</h2>
 </a>
 
-updated 2016-11-17
+updated 2016-11-22
 
 <p>
 
-As I dig into the jeep I am making a list of the work that I am going to need to get done,
-the goal is to have a safe, reliable, running jeep.  A secondary goal is to restore the
-Jeep to something that looks close to the M38, however I am not trying to be strictly
-historically accurate.  I really enjoy being able to drive this around our property
-so I am keeping fun running as first priority.
+As I dig into the jeep I am making a list of the work that I am going to need
+to get done, the goal is to have a safe, reliable, running jeep.  A secondary
+goal is to restore the Jeep to something that looks close to the M38, however I
+am not trying to be strictly historically accurate.  I really enjoy being able
+to drive this around our property so I am keeping fun running as first
+priority.
 
 <p>
 
@@ -37,12 +38,24 @@ Some of the smaller maintenance tasks:
    <dt>Windshield cushions</dt>
    <dd>The rubber stoppers currently in place on the hood need to be replaced with longer
        bits of rubber to protect the windshield frame when the hood is raised.  I think I
-       can cut some rubber off some old golf cart tires for this.</dd>
+       can cut some rubber off some old golf cart tires for this. 3 7/8"x1 3/8"x1 3/8", holes 3/16" with 1/2" countersunk 1/2"</dd>
 
    <dt>Gas cap and tank leaks</dt>
    <dd>The gas cap leaks when you drive.  It looks as though the cork seal needs to be replaced.
        The fuel level sender is leaking as well - leaving liquid
        gas under the driver seat.</dd>
+
+   <dt>Tune Up</dt>
+   <dd>
+      <ul>
+         <li>New spark plugs seems like a good idea, J-8, gap to 0.030"/0.76mm, temp rating?</li>
+         <li>Points Gap to 0.020"/0.51mm, temp rating?</li>
+         <li>Ignition timing</li>
+         <li>Valve tappet clearance to 0.014"/0.356mm</li>
+         <li>Clean fuel pump screen</li>
+         <li>Set carb idle screw to idle at 600rpm</li>
+         <li>Set carb low speed idle so that engine idles smoothly</li>
+      </ul>
 
 	<dt>Shocks</dt>
 	<dd>I am almost certain that I need new shock absorbers.  This isn't a top priority since the
@@ -168,6 +181,15 @@ nice to put either in-line fuses in place or an actual fuse box.
 
 <hr>
 
+<h3>Carburetor rebuild</h3>
+
+<p>
+
+The carburetor looks rough and the engine runs rough, I am assuming that it needs
+to be rebuilt.  This website looks like a good place to start: <a href="http://mightymo.org/Proj_carter_wo_101.htm">Carter WO - 101</a>
+
+<hr>
+
 <h3>Spare Tire Mount</h3>
 
 <p>
@@ -183,11 +205,12 @@ build the spare tire mount on the right side where it should be.
 
 <p>
 
-There is no rear seat, however I really like the idea of adding a seat so that I can take a few
-passengers around more comfortably.  Remember that the goal is to be able to scoot around on 
-our property and between the houses out in our part of the woods.  We often use a golf cart or
-a car, but this would be a nifty alternative if I had a seat there.  The frame is usually about
-$250 and that still needs upholstry.  
+There is no rear seat, however I really like the idea of adding a seat so that
+I can take a few passengers around more comfortably.  Remember that the goal is
+to be able to scoot around on our property and between the houses out in our
+part of the woods.  We often use a golf cart or a car, but this would be a
+nifty alternative if I had a seat there.  The frame is usually about $280 and
+that still needs upholstry for about $200.
 
 <hr>
 
@@ -197,6 +220,16 @@ $250 and that still needs upholstry.
 
 The front seat frames are in pretty bad shape, it would be good
 to rebuild them.
+
+<hr>
+
+<h3>Leaf springs</h3>
+
+<p>
+
+The leaf springs look as though they are done.  A new set of 10 leaf springs
+costs $145 each at Walcks.  Also need U bolts, shackles and bolts.  Watch out
+for left hand threads on the springs on left front and right rear.
 
 <hr>
 
