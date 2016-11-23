@@ -38,7 +38,7 @@
                but most of this Jeep is original equipment for the CJ2A.  The frame and sheet metal were in
                great shape, there are a few holes in a few of the side panels but it has remarkably little rust.
 
-               <img src="20161114-cj2a-side-web.jpg" alt="1947 Willy's CJ2A Side" style="center">
+               <img src="20161119-jeepinshop-web.jpg" alt="1947 Willy's CJ2A In My Shop" style="center">
 
 					<hr>
 
