@@ -38,11 +38,19 @@
                   <dt><a href="http://www.thecj2apage.com">The CJ2A Page</a></dt>
                   <dd>This appears to be the most active forum page on the CJ2A.</dd>
 
-						<dt><a href="http://www.ewillys.com/">eWillys</dt>
-						<ddThis site has the most up to date listings for jeeps for sale.  It looks as though
+						<dt><a href="http://www.ewillys.com/">eWillys</a></dt>
+						<dd>This site has the most up to date listings for jeeps for sale.  It looks as though
 							they aggregate from multiple sites (including craigslist).  This is probably the
 							best place to go if you are looking for a jeep to buy, it is the site I used to find
 							mine.</dd>
+
+                  <dt><a href="http://www.cj-2a.com/parts_list/">Parts Database</a></dt>
+                  <dd>This site provides a web form for looking up parts lists by part group and sub-assembly.  
+                      It is nice for a quick check on bolt sizes etc. but doesn't look like exploded views 
+                      are available.</dd>
+
+                  <dt><a href="http://www.cj-jeep.com/cj2a/cj2a_parts_and_accessories.htm">Surplus City Jeep Parts</a></dt>
+                  <dd>These guys provide a nice website that show exploded views and parts lists</dd>
                </dl>
 
 					<hr>
