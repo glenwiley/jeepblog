@@ -36,13 +36,14 @@ they are only twice as expensive as the standard steel bolts.
       <td>bolt, hex 3/8"-24x1 1/8"<td>
       <td>4</td>
       <td>cut from 1 1/2" length, check body length</td>
-   <tr>
+   </tr>
+
    <tr>
       <td>Flywheel housing to cylinder block</td>
       <td>bolt, hex 3/8"-24x1 5/8"<td>
       <td>2</td>
       <td>use 1 1/2" length, check body length</td>
-   <tr>
+   </tr>
 
    <tr>
       <td rowspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, nut, hex, grade 5, 3/8"-24, $0.08</a></td>
@@ -53,7 +54,7 @@ they are only twice as expensive as the standard steel bolts.
       <td>nut, hex 3/8"-24<td>
       <td>8</td>
       <td></td>
-   <tr>
+   </tr>
 
    <tr>
       <td rowspan="4"><a href="">TBD</a></td>
@@ -64,7 +65,7 @@ they are only twice as expensive as the standard steel bolts.
       <td>bolt, hex 3/8"-24x2 1/8" dowel<td>
       <td>2</td>
       <td></td>
-   <tr>
+   </tr>
 
    <tr>
       <td>Body to frame</td>
@@ -72,6 +73,6 @@ they are only twice as expensive as the standard steel bolts.
       <td>TBD</td>
       <td>TBD</td>
       <td></td>
-   <tr>
+   </tr>
 
 </table>

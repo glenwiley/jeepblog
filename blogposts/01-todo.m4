@@ -1,7 +1,7 @@
 <h2>Willy's Jeep CJ2A TODO List</h2>
 </a>
 
-updated 2016-11-22
+updated 2016-11-30
 
 <p>
 
@@ -95,6 +95,15 @@ The brake system has a single master cylinder and looks pretty
 rough.  I plan on replacing it with a dual master cylinder and
 10" brake drums.
 
+<hr>Replace Alternator</hr>
+
+<p>
+
+The alternator doesn't really fit - it has no rear bracket (I
+could make one) and the pully is too narrow for the belt.  I need
+to change the pully or replace the alternator completely since it
+is chewing up the belt.
+
 <hr>
 
 <h3>Steering Box Rebuild</h3>
@@ -142,8 +151,10 @@ fabricate patches that match the original design and weld them in place.
    <li>Right rear quarter panel is pretty mangled.</li>
    <li>It would be nice to replace the side panels with ones that have notches for the pioneer
        tools.</li>
-   <li>The glove box under the passenger seat is rotted
-   through</li>
+   <li>The glove box under the passenger seat is rotted through</li>
+   <li>The dashboard is pretty cut up</li>
+   <li>One of the POs went crazy with a drill and put holes all over the body panels.  I need
+       to break out the OA torch and fill all of those holes.</li>
 </ul>
 
 <hr>
