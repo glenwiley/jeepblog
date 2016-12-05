@@ -27,6 +27,17 @@ they are only twice as expensive as the standard steel bolts.
    </tr>
 
    <tr>
+      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=492">Bolt Depot, bolt, hex, grade 5, 3/8"-24x1 1/4, $20.96/100</a></td>
+   </tr>
+
+   <tr>
+      <td>Transmission cross member to frame</td>
+      <td>bolt, hex 3/8"-24x1 1/8"</td>
+      <td>4</td>
+      <td>use 1 1/4" length</td>
+   </tr>
+
+   <tr>
       <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=493">Bolt Depot, bolt, hex, 3/8"-24x1 1/2, grade 5, $0.31</a></td>
    </tr>
 
@@ -45,12 +56,30 @@ they are only twice as expensive as the standard steel bolts.
    </tr>
 
    <tr>
-      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, nut, hex, grade 5, 3/8"-24, $0.08</a></td>
+      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, nut, hex, grade 5, 3/8"-24, $5.31/100</a></td>
+   </tr>
+
+   <tr>
+      <td>Transmission cross member to frame</td>
+      <td>nut, hex, grade 5 3/8"-24</td>
+      <td>4</td>
+      <td></td>
    </tr>
 
    <tr>
       <td>Flywheel housing to cylinder block</td>
       <td>nut, hex 3/8"-24</td>
+      <td>8</td>
+      <td></td>
+   </tr>
+
+   <tr>
+      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, washer, USS, flat, grade 5, 3/8", $6.95/100</a></td>
+   </tr>
+
+   <tr>
+      <td>Transmission cross member to frame</td>
+      <td>washer, USS, flat, grade 5 3/8"</td>
       <td>8</td>
       <td></td>
    </tr>
