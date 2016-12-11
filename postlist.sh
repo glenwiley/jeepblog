@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/bin/bash
 for f in $(ls -r1 blogposts/)
 do
 	nm=${f%%.m4}

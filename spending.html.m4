@@ -47,6 +47,18 @@ include(`spending.m4')
                   </tr>
 
                   <tr>
+                     <td>2016-12-10</td>
+                     <td>Tractor Supply: 1 1/4", 1 5/16" sockets, adapters, replacement extension for the one I broke</td>
+                     <td>$40</td>
+                  </tr>
+
+                  <tr>
+                     <td>2016-12-07</td>
+                     <td>Amazon: KBS Cavity coater and spray wand to protect enclosed areas of frame, brass drifts, center punch</td>
+                     <td>$100</td>
+                  </tr>
+
+                  <tr>
                      <td>2016-11-21</td>
                      <td>Amazon: Gasket material, master brake cylinder ACDelco 18M287, 3/16" x 25' steel brake line, line clamps</td>
                      <td>$72</td>
