@@ -1,6 +1,6 @@
 <h2>Fasteners</h2>
 
-updated 2016-11-30
+updated 2016-12-20
 
 <p>
 
@@ -67,7 +67,7 @@ they are only twice as expensive as the standard steel bolts.
    </tr>
 
    <tr>
-      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, nut, hex, grade 5, 3/8"-24, $5.31/100</a></td>
+      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577">Bolt Depot, nut, hex, grade 5, 3/8"-24, $5.31/100</a></td>
    </tr>
 
    <tr>
@@ -85,7 +85,7 @@ they are only twice as expensive as the standard steel bolts.
    </tr>
 
    <tr>
-      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, washer, USS, flat, grade 5, 3/8", $6.95/100</a></td>
+      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577">Bolt Depot, washer, USS, flat, grade 5, 3/8", $6.95/100</a></td>
    </tr>
 
    <tr>
@@ -111,7 +111,6 @@ they are only twice as expensive as the standard steel bolts.
       <td>TBD</td>
       <td>TBD</td>
       <td>TBD</td>
-      <td></td>
    </tr>
 
 </table>

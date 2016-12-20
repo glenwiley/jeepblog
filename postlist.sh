@@ -1,5 +1,5 @@
 #!/usr/local/bin/bash
-for f in $(ls -r1 blogposts/)
+for f in $(ls -r1 blogposts/*.m4)
 do
 	nm=${f%%.m4}
 	incl=$(echo $f | sed 's/^/include\(`/' | sed "s/\$/\'\)/")

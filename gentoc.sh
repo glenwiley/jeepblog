@@ -10,7 +10,7 @@ echo "<th>Title</th>"
 echo "<th>Date</th>"
 echo "</tr>"
 
-for f in $(ls -1 $posts)
+for f in $(ls -r1 $posts)
 do
    title=$(grep "<h2>" $posts/$f | head -1 | sed -e 's/<h2>//' -e 's/<\/h2>//')
    txtanchor=${f%%.m4}
