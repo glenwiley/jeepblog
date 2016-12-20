@@ -17,8 +17,6 @@ damage to the gears.
 
 <img src="20161218-cj2a-tc-mainshaftout-web.jpg" alt="CJ2A remove mainshaft">
 
-
-../images/20161218-cj2a-tmcase-bolt02-web.jpg
 <p>
 
 The next problem was a bolt that a PO had broken off in the transmission case.

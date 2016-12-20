@@ -56,6 +56,17 @@ they are only twice as expensive as the standard steel bolts.
    </tr>
 
    <tr>
+      <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=7238">Bolt Depot, bolt, hex, 5/16"-18 5/8, grade 5, $0.10</a></td>
+   </tr>
+
+   <tr>
+      <td>Transmission, cover to case</td>
+      <td>bolt, hex 5/16"-18 5/8"</td>
+      <td>6</td>
+      <td></td>
+   </tr>
+
+   <tr>
       <td colspan="4"><a href="https://www.boltdepot.com/Product-Details.aspx?product=2577>Bolt Depot, nut, hex, grade 5, 3/8"-24, $5.31/100</a></td>
    </tr>
 

@@ -19,7 +19,7 @@ do
 
 
    echo "<tr>"
-   echo "<td><a href=\"#" $txtanchor "\">" $title "</a></td>"
+   echo "<td><a href=\"#$txtanchor\">" $title "</a></td>"
    echo "<td>$dt</td>"
    echo "</tr>"
 done
