@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # generate table of contents for blog posts
 # parameter is directory to read posts from
 
