@@ -7,7 +7,11 @@ updated 2016-12-18
 
 The mainshaft bolt was really stuck on both of the transfer cases that I have.
 I resorted to brute force multiplied by a 4 foot cheater bar.  I have a picture
-of what it took to loosen the nut on both of the mainshafts.
+of what it took to loosen the nut on both of the mainshafts.  Note the small
+length of aluminum rod sticking into the transfer case.  That was wedged into
+the gears to hold them in place while I applied force to the lever.  The
+aluminum was impressively smashed afterward but it did its job with no
+damage to the gears.
 
 <p>
 
